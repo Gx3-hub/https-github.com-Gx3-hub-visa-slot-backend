@@ -1,2 +1,2 @@
 python
-print("visa bot running...")
+print("visa slot bot is running on Render!")
