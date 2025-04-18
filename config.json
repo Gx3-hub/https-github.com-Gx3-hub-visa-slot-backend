@@ -1,0 +1,13 @@
+{
+  "username": "your_username",
+  "password": "your_password",
+  "security_question1": "honda",
+  "security_question2": "newyork",
+  "security_question3": shi",
+  "location": "Algiers",
+  "target_start": "2025-04-01",
+  "target_end": "2025-08-31",
+  "captcha_notify_webhook": "",
+  "telegram_bot_token": "8014939637:AAHeCujU4kc98qlpVXOkFE1vU1wyKpTcdjM",
+  "telegram_user_id": "6093496861"
+}
