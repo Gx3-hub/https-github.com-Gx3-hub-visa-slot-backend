@@ -27,5 +27,5 @@ send_telegram_message("Visa slot bot is live and ready to notify you!")
 # Replace this block with real appointment-checking code
 appointment_available = True  # Simulating that a slot was found
 
-if appointment_available:
+if appointment_available: 
     send_telegram_message("**Visa Appointment Slot Available!** Visit the CGI website now to book it.")
