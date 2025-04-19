@@ -1,6 +1,7 @@
 import json
 import requests
 from datetime import datetime
+from selenium import webdriver
 
 # Load configuration from config.json
 with open("config.json") as f:
